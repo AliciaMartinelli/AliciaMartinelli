@@ -36,6 +36,5 @@ They show my background in software architecture and machine learning for exopla
 
 ---
 
-## Connect  
-- [Website](https://aliciamartinelli.com)  
+## Connect 
 - [LinkedIn](https://www.linkedin.com/in/alicia-martinelli/)
