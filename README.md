@@ -7,7 +7,7 @@ Exploring how AI changes the way we build, learn, and create.
 ## About  
 I'm a full-stack software engineer at [iRIX Software Engineering AG](https://irix.ch).  
 I like to build prototypes, play with models, and see what happens when code meets curiosity.  
-I share what I learn through talks and community events such as the **AI Stammtisch Basel**.
+I share what I learn through talks and community events such as the [**AI Stammtisch Basel**](https://www.meetup.com/basel-ai-stammtisch/).
 
 ---
 
